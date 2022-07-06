@@ -1,0 +1,56 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: #c59faa;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #8b5a66;
+   
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #c59faa;
+    font-size: 25px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.container{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 50%;
+    border: 10px white;
+    border-radius: 15px;
+    background-color: #691427;
+    margin: 15px;
+    
+}
+
+input{
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    border: transparent;
+    background-color:#9c2b43 ;
+}
+
+.resposta{
+    color: #c59faa;;
+    padding: 15px;
+    
+
+}
+
+.erro_cep{
+    color: #E0048C;
+    padding: 15px;
+    background-color: #611F2D;
+    border-radius: 15px;
+}
