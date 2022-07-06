@@ -7,7 +7,7 @@ Enviará e receberá dados da API do ViaCEP;
 Ao digitar o CEP, retornará dados como: BAIRRO, CIDADE e RUA.
 
 <hr>
-<a href = "">Clique aqui para acessar o projeto</a>
+<a href = "https://denisedepaiva.github.io/buscador_viaCEP/">Clique aqui para acessar o projeto</a>
 <hr>
 
   ### &#x1F4BC; Tecnologias utilizadas
